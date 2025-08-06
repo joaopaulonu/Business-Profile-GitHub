@@ -1,7 +1,5 @@
 # Business-Profile-GitHub
 
-# Business-Profile-GitHub
-
 Este repositório contém um template de código para criar um perfil de README.md profissional para o GitHub.
 
 ## Objetivo
